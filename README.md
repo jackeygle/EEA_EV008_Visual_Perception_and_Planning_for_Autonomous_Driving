@@ -4,9 +4,9 @@ This repository extends the [original course project prototype](https://github.c
 
 ## Demo Video
 
-[![Video panoptic segmentation preview — click to watch the demo](outputs/evaluation_preview.png)](https://youtu.be/z8a4EoIfTU)
+[![Video panoptic segmentation preview — click to watch the demo](outputs/evaluation_preview.png)](https://www.youtube.com/watch?v=z8a4EoIfTUI)
 
-**[Watch the demo on YouTube](https://youtu.be/z8a4EoIfTU)**
+**[Watch the demo on YouTube](https://www.youtube.com/watch?v=z8a4EoIfTUI)**
 
 Video panoptic segmentation and instance tracking with a PyTorch implementation of Motion-DeepLab. Models were trained and evaluated on HPC using STQ, AQ, and IoU metrics. The visualization pipeline displays input frames, semantic overlays, instance center heatmaps, and motion vectors.
 
